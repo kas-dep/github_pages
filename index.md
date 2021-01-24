@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Witaj to GitHub Pages mojego projektu
 
 You can use the [editor on GitHub](https://github.com/kas-dep/github_pages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
